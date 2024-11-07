@@ -16,7 +16,6 @@ ShoppyGlobe API offering various endpoints for user registration, login, product
 To run this application on your local machine, follow these steps:
 
 1. **Clone the Repository**
-
    ```bash
   git clone https://github.com/shreyajha10/Project_Build_APIs_With_Node
 
@@ -25,7 +24,6 @@ To run this application on your local machine, follow these steps:
 2. **Navigate to the Project Directory:**
    ```bash
    cd BackendForShoppyGlobe
-
 
 
 3. **Install Dependencies**
@@ -38,4 +36,4 @@ To run this application on your local machine, follow these steps:
 
 5. **Create .env file in root**
     JWT_SECRET=
-   MONGODB_URI=mongodb://localhost:27017/shoppy_db
+    MONGODB_URI=mongodb://localhost:27017/shoppy_db
