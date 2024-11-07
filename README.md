@@ -17,7 +17,7 @@ To run this application on your local machine, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-  git clone https://github.com/shreyajha10/Project_Build_APIs_With_Node
+   git clone https://github.com/shreyajha10/Project_Build_APIs_With_Node
 
 
 
