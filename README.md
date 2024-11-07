@@ -36,7 +36,7 @@ To run this application on your local machine, follow these steps:
 
 5. **Create .env file in root**
     ```bash
-    JWT_SECRET=
+    JWT_SECRET=jhajkkkkki123@ 
     MONGODB_URI=mongodb://localhost:27017/shoppy_db
 
 
