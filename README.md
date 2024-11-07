@@ -38,3 +38,24 @@ To run this application on your local machine, follow these steps:
     ```bash
     JWT_SECRET=
     MONGODB_URI=mongodb://localhost:27017/shoppy_db
+
+
+
+## API Endpoints
+   **Authentication**
+   - Post/register 
+    - Body: { "username": "testuser", "password": "testpassword" }
+   - Post/login
+     - Body: { "username": "testuser", "password": "testpassword" }
+
+     **Products**
+     - Get/products
+     - Get/products/productId
+
+     **Cart**
+     - Post/cart
+      - Body: { "productId": "PRODUCT_ID", "quantity": 1 }
+     - Get/cart
+     - Put/cart/productId
+       - Body:{"quantity":2}
+     - Delete/cart
